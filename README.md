@@ -1,2 +1,2 @@
 # daily-commit-workflow
-Commit Sesion
+What a commit
