@@ -1,2 +1,2 @@
 # daily-commit-workflow
-Daily commit done
+What is the time zone
