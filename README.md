@@ -8,9 +8,5 @@ It can learn relationships like:
 
 This happens because the vectors capture semantic meaning.
 
-Advantages
-
-✅ Understands semantic similarity
-
 
 
