@@ -20,6 +20,3 @@ Disadvantages
 
 ❌ Requires training data
 
-❌ More complex than TF-IDF
-
-❌ Doesn't handle out-of-vocabulary words well
