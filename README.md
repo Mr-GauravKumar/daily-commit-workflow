@@ -12,11 +12,5 @@ Advantages
 
 ✅ Understands semantic similarity
 
-✅ Dense vectors (typically 100–300 dimensions)
 
-✅ Useful for NLP tasks
-
-Disadvantages
-
-❌ Requires training data
 
