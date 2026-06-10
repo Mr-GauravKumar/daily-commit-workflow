@@ -3,5 +3,5 @@
 
 ---
 
-Daoly commit 1
+Daily commit 1
 ---
