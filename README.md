@@ -10,5 +10,4 @@ For XGBoost:
 Use LabelEncoder or OneHotEncoding depending on the feature.
 Based only on this correlation matrix
 My priority order would be:
-Keep all original features
-Add color-index features (u_g, g_r, r_i, i
+Keep all original 
