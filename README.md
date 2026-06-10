@@ -16,4 +16,3 @@ Train XGBoost baseline
 Check feature importance
 Remove only genuinely useless features
 Hyperparameter tuning
-For Kaggle competitions, feature engineering usually gives a bigger gain than removing correlated features when using XGBoost/CatBoost. The color-index features are the first thing I'd test.
