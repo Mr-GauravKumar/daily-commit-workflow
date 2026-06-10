@@ -14,5 +14,3 @@ Keep all original features
 Add color-index features (u_g, g_r, r_i, i_z)
 Train XGBoost baseline
 Check feature importance
-Remove only genuinely useless features
-Hyperparameter tuning
