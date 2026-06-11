@@ -6,4 +6,3 @@ For CatBoost:
 Python
 cat_features = [...]
 No encoding needed.
-For XGBoost
