@@ -6,5 +6,4 @@ For CatBoost:
 Python
 cat_features = [...]
 No encoding needed.
-For XGBoost:
-Use LabelEncoder or OneHotEncoding.
+For XGBoost
