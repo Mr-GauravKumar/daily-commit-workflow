@@ -13,10 +13,7 @@ Scene: golden sunset beach with pastel orange-pink sky, soft ocean waves, wet re
 Outfit: olive green linen shirt with rolled sleeves, beige cargo shorts, silver wrist watch, holding black round sunglasses.
 
 Photo 1: medium side-profile portrait looking towards the horizon, calm expression, ocean waves behind.
-Photo 2: close-up shot of hand holding black sunglasses near shorts pocket, cinematic focus blur background.
-Photo 3: back pose standing near shoreline facing ocean during sunset, relaxed posture.
-Photo 4: candid pose touching hair while smiling slightly, warm sunlight on face, soft breeze effect.
-
+Photo 2: close-up shot of hand holding black sunglasses near shorts pocket, cinematic focus blur background
 Composition: exact same vertical stacked collage layout with thin borders between photos, aesthetic Instagram reel-cover style, smooth warm tones, balanced spacing, realistic shadows and lighting.
 
 Camera settings: DSLR quality, 85mm lens, f/1.8 aperture, ultra realistic, HDR, natural skin texture, cinematic 
