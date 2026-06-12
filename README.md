@@ -21,4 +21,4 @@ Composition: exact same vertical stacked collage layout with thin borders betwee
 
 Camera settings: DSLR quality, 85mm lens, f/1.8 aperture, ultra realistic, HDR, natural skin texture, cinematic travel photography style, 4K details.
 
-Negative prompt: blurry face, extra fingers, distorted body, cartoon look, over-editing, unrealistic skin, AI face changes, low quality, duplicate person, bad anatomy, overexposed lighting, watermark, text.
+Negative prompt: blurry face, extra fingers, distorted body, cartoon look, over-editing, unrealistic skin, AI face changes, low quality, duplicate person, 
