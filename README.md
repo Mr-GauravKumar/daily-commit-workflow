@@ -20,5 +20,3 @@ Photo 4: candid pose touching hair while smiling slightly, warm sunlight on face
 Composition: exact same vertical stacked collage layout with thin borders between photos, aesthetic Instagram reel-cover style, smooth warm tones, balanced spacing, realistic shadows and lighting.
 
 Camera settings: DSLR quality, 85mm lens, f/1.8 aperture, ultra realistic, HDR, natural skin texture, cinematic travel photography style, 4K details.
-
-Negative prompt: blurry face, 
