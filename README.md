@@ -11,5 +11,3 @@ Daily Commit 3
 daily Commit 4
 
 daily Commit 5
-
-Daily Commit 6
