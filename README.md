@@ -2,5 +2,3 @@
 ---
 
 daily Commit 1
-
-Daily commit 2
