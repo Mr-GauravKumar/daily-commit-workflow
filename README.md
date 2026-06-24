@@ -2,5 +2,3 @@
 
 ---
 
-
-Daily Commit1 1
