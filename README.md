@@ -7,5 +7,3 @@ daily commit
 daily commit
 
 daily cmmit
-
-daily commit
