@@ -12,4 +12,3 @@ daily commit
 
 daily commmit
 
-daily commit
